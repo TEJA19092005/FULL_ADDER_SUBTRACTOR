@@ -93,9 +93,11 @@ endmodule
 
 ## Output Timing Waveform
 ## Full_adder
-![Screenshot (38)](https://github.com/23005672/FULL_ADDER_SUBTRACTOR/assets/138971519/1ebe8851-dd84-47c0-a6e2-040e73a61d8e)
+![NEW 1](https://github.com/TEJA19092005/FULL_ADDER_SUBTRACTOR/assets/164043042/199c2ad7-5bb9-4cc2-8865-52f4bbf63b87)
+
 ## Full_subtractor
-![Screenshot (39)](https://github.com/23005672/FULL_ADDER_SUBTRACTOR/assets/138971519/32788124-8d44-469f-a1a2-92375eb05afb)
+![NEW 2](https://github.com/TEJA19092005/FULL_ADDER_SUBTRACTOR/assets/164043042/98cd3ebe-e472-4d3a-a3dd-c0ab66b69f10)
+
 
 ## Result:
 
